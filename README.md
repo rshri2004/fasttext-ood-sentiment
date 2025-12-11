@@ -1,4 +1,4 @@
-# CS260D_FinalProject
+# How does incorporating synthetic movie review data influence the performance of a lightweight, scalable FastText-based sentiment classification pipeline for out-of-distribution reviews
 
 ### Overview
 This project examines the impact of synthetic data and submodular data selection on sentiment classification performance using a FastText model.
