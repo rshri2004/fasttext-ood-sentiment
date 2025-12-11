@@ -26,6 +26,9 @@ This project combines both ideas—synthetic data generation and submodular data
    - Amazon Reviews test set → Out-of-distribution (OOD) 
     #### Our Ablation Studies
          1. Impact of the Data Source
-         2. Impact of Submodular Data Selection 
+         2. Impact of Submodular Data Selection
+
+### Project Notebook
+This repository includes a Jupyter notebook 'sentiment_classification.ipynb' that contains the complete data processing, submodular selection, training, and evaluation pipeline.
   
 
