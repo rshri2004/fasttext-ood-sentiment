@@ -30,5 +30,8 @@ This project combines both ideas—synthetic data generation and submodular data
 
 ### Project Notebook
 This repository includes a Jupyter notebook `sentiment_classification.ipynb` that contains the complete data processing, submodular selection, training, and evaluation pipeline.
+
+### Paper
   
+[CS260D_Final_Report.pdf](https://github.com/user-attachments/files/24223861/CS260D_Final_Report.pdf)
 
